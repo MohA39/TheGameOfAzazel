@@ -1,0 +1,34 @@
+Game developed by Mohab Abdalfattah, with the use of some free public assets.
+
+Sprites:
+https://opengameart.org/content/a-load-of-overworld-34-rpg-sprites - mage enemy
+https://opengameart.org/content/mage-attack - Mage enemy attack
+https://xyezawr.itch.io/free-pixel-effects-pack-13-fireballs - Fireballs
+https://jesse-m.itch.io/skeleton-pack - Skeleton enemy
+https://darkpixel-kronovi.itch.io/undead-executioner - Dementor enemy
+https://xyezawr.itch.io/gif-free-pixel-effects-pack-12-mini-magick-shoots-3 - Magic shots
+https://adwitr.itch.io/pixel-health-bar-asset-pack-2 - bars
+https://cryptogene.itch.io/free-monster-creature-demo-pack - Allies
+https://opengameart.org/content/animated-rat-and-bat - rat
+https://ansimuz.itch.io/explosion-animations-pack - Basic explosion
+
+Music:
+https://www.youtube.com/watch?v=f3a48atRaDc - Game music
+https://opengameart.org/content/weird-shop-gypsy-guitar - Shop music
+https://opengameart.org/content/rpg-title-screen-music-pack - Menu music
+
+Sound effects:
+https://www.youtube.com/watch?v=CLDnBBbWUZ0 - Fireball sound effect
+https://www.youtube.com/watch?v=Fl1mTknDyPI - Magic sound effect
+https://www.youtube.com/watch?v=gu4PydelviQ - Mage death sound effect
+https://opengameart.org/content/9-explosion-sounds - Explosion sound
+https://www.zapsplat.com/music/rat-screech-in-pain-dying-death-3/ - Rat death
+https://www.zapsplat.com/music/mouse-squeaking/ - Rat squeak
+https://www.zapsplat.com/music/game-sound-collect-single-coin-12/ - Coin collect
+
+Shop item icons:
+https://opengameart.org/content/heart-icon - Health
+https://opengameart.org/content/round-shield-40x40 - Shield
+https://www.pixil.art/art/brown-winged-boot-590bb1c17a4b242 - Speed
+https://opengameart.org/content/4-color-dawnbringer-icons-for-adventurerpg - Luck
+https://opengameart.org/content/lpc-animated-torch - Light

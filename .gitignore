@@ -1,0 +1,9 @@
+.vs/*
+Artwork/*
+TheGameOfAzazel/bin/*
+TheGameOfAzazel/obj/*
+TheGameOfAzazel/Content/bin/*
+TheGameOfAzazel/Content/obj/*
+Resources.txt
+Credits.txt
+ToDo.txt

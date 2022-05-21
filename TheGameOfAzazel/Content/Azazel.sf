@@ -1,0 +1,29 @@
+{
+    "textureAtlas": {
+        "texture": "Azazel.png",
+        "regionWidth": 180,
+        "regionHeight": 103
+    },
+    "cycles": {
+        "hit": {
+            "frames": [
+                0,
+                1,
+                2
+            ],
+            "isLooping": false,
+            "frameDuration": 0.1
+        },
+        "walk": {
+            "frames": [
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            "isLooping": true,
+            "frameDuration": 0.2
+        }
+    }
+}

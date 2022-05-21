@@ -1,0 +1,12 @@
+{
+  "textureAtlas": {
+    "texture": "BasicExplosion.png",
+    "regionWidth": 48,
+    "regionHeight": 48
+  },
+  "cycles": {
+    "explode": {
+      "frames": [0,1,2,3,4,5,6,7]
+    }
+  }
+}

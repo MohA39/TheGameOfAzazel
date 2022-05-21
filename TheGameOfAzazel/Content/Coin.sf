@@ -1,0 +1,18 @@
+{
+  "textureAtlas": {
+    "texture": "Coin.png",
+    "regionWidth": 32,
+    "regionHeight": 32
+  },
+  "cycles": {
+    "shine": {
+      "frames": [1,2,3,4,5,6,7,8],
+	  "frameDuration": 0.03
+    },
+    "idle": {
+      "frames": [0],
+	  "isLooping": true,
+	  "frameDuration": 1.00
+    }
+  }
+}

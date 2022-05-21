@@ -20,12 +20,9 @@ namespace TheGameOfAzazel
 
         protected override void Initialize()
         {
-            _graphics.PreferredBackBufferWidth = 1280;
-            _graphics.PreferredBackBufferHeight = 720;
-            /*
-            _graphics.PreferredBackBufferWidth = 1920;
-            _graphics.PreferredBackBufferHeight = 1080;
-            _graphics.IsFullScreen = true;*/
+            _graphics.PreferredBackBufferWidth = _graphics.GraphicsDevice.Adapter.CurrentDisplayMode.Width;
+            _graphics.PreferredBackBufferHeight = _graphics.GraphicsDevice.Adapter.CurrentDisplayMode.Height;
+            _graphics.IsFullScreen = true;
 
             _graphics.ApplyChanges();
 

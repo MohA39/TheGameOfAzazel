@@ -1,4 +1,8 @@
-![Banner](https://i.postimg.cc/pdZ99rx7/Banner.png)
+
+<p align="center">
+  <img src="https://i.postimg.cc/pdZ99rx7/Banner.png" />
+</p>
+
 ## Description
 
 The Game Of Azazel is an endless open-source Run n' Gun that attempts to capture the soul of older flash games in a newer, more advanced form. You play as Azazel, a supernatural being who has fallen into the underworld and has to fight his way back up alongside his allies. As you fight enemies and gather coins, you upgrade your abilities and gain further power and dominance. This project is still a work-in-progress.
